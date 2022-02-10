@@ -38,7 +38,7 @@ with open("File2.txt","w") as fp1:
 ```    
 
 ### OUTPUT:
-![output](./output.png)![output](https://user-images.githubusercontent.com/93427240/153406641-0240914a-c51c-44ad-9b3b-8d37ede4a755.png)
+![output](./output.png)
 
 
 
